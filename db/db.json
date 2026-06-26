@@ -1,0 +1,96 @@
+{
+  "pedidos": [
+    {
+      "cliente": "joao",
+      "sabor": "Pastel de Carne",
+      "tamanho": "Individual",
+      "opcionais": [
+        "Borda de catupiry"
+      ],
+      "id": 2
+    }
+  ],
+  "cardapio": [
+    {
+      "id": 1,
+      "emoji": "🧀",
+      "nome": "Pastel de Queijo",
+      "descricao": "Queijo mussarela derretido numa massa crocante.",
+      "precoBase": 8
+    },
+    {
+      "id": 2,
+      "emoji": "🥩",
+      "nome": "Pastel de Carne",
+      "descricao": "Carne moída temperada com ervas frescas.",
+      "precoBase": 9
+    },
+    {
+      "id": 3,
+      "emoji": "🍗",
+      "nome": "Pastel de Frango",
+      "descricao": "Frango desfiado com catupiry.",
+      "precoBase": 9
+    },
+    {
+      "id": 4,
+      "emoji": "🍤",
+      "nome": "Pastel de Camarão",
+      "descricao": "Camarão ao molho especial com cream cheese.",
+      "precoBase": 13
+    },
+    {
+      "id": 5,
+      "emoji": "🌿",
+      "nome": "Pastel de Palmito",
+      "descricao": "Palmito pupunha com requeijão.",
+      "precoBase": 10
+    },
+    {
+      "id": 6,
+      "emoji": "🍫",
+      "nome": "Pastel de Chocolate",
+      "descricao": "Chocolate ao leite com morango.",
+      "precoBase": 9
+    }
+  ],
+  "tamanhos": [
+    {
+      "id": 1,
+      "nome": "Individual",
+      "adicional": 0
+    },
+    {
+      "id": 2,
+      "nome": "Grande",
+      "adicional": 4
+    },
+    {
+      "id": 3,
+      "nome": "Família",
+      "adicional": 8
+    }
+  ],
+  "opcionais": [
+    {
+      "id": 1,
+      "nome": "Borda de catupiry",
+      "preco": 3
+    },
+    {
+      "id": 2,
+      "nome": "Queijo extra",
+      "preco": 2.5
+    },
+    {
+      "id": 3,
+      "nome": "Bacon",
+      "preco": 3.5
+    },
+    {
+      "id": 4,
+      "nome": "Molho da casa",
+      "preco": 1.5
+    }
+  ]
+}
